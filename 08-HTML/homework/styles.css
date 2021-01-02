@@ -1,0 +1,17 @@
+h1 {
+    color: #e74d4d;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 600px;
+    background-color: #8f8f8f;
+    padding: 50px;
+    border: dotted #3574d2;
+}
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+}
